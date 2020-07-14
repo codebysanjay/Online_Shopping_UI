@@ -14,8 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![ScreenShot](https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_1.png)
-![ScreenShot](https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_2.png)
-![ScreenShot](https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_3.png)
-![ScreenShot](https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png)
-<img src="https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png" width="50" />
+<img src="https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png" width="200" />
+<img src="https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png" width="200" />
+<img src="https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png" width="200" />
+<img src="https://raw.github.com/codebysanjay/Online_Shopping_UI/master/Screenshot_4.png" width="200" />
